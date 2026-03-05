@@ -9,6 +9,10 @@ https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/chunklist_w608027249.m3u8
 https://www.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=Wj1uFfNgI81a7VyZqyZxZN2Voq3ZZPgfMLhaHHk2uAG0tfL2fsSswXXnX7jNVn6dK1eiCqtwZspGotpD8ImBY-V8hr2lW-Hev9I2XuBVCRm2Qu8ofPaYX4Z-1MYav-nw&dmTs=195953&dmV1st=cad69b50-198e-440d-b764-43ee51ddd49a
 #EXTINF:-1 tvg-id="BOLIVIA TV 7.2" tvg-name="BOLIVIA TV 7.2" tvg-logo="https://www.boliviatv.bo/principal/images/logos/btv.png" group-title="BOLIVIA", BOLIVIA TV 7.2
 https://www.dailymotion.com/cdn/live/video/x9ny70y.m3u8?sec=hg02poKHC3sJEG5W3Xty-4U3S4aOCf3dyplBkPrc2efMhL0QbGO7d4EQxy1YNMju7uuc-B0pAyIbdpNmbyWc0F0WPr2ut7UQRZ8MyMhg2_fs5GFXG8Ax2FSDNACnNqPG&dmTs=195953&dmV1st=cad69b50-198e-440d-b764-43ee51ddd49a
+#EXTINF:-1 tvg-id="BOLIVISION LPZ" tvg-name="BOLIVISION LPZ" tvg-logo="https://alba-bo-bolivision.cdn.mediatiquepress.com/wp-content/uploads/2025/04/alba_bo_bolivision_logo-2-300x41.png" group-title="BOLIVIA", BOLIVISION LPZ
+https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 tvg-id="BOLIVISION SCZ" tvg-name="BOLIVISION SCZ" tvg-logo="https://alba-bo-bolivision.cdn.mediatiquepress.com/wp-content/uploads/2025/04/alba_bo_bolivision_logo-2-300x41.png" group-title="BOLIVIA", BOLIVISION SCZ
+https://d2qsan2ut81n2k.cloudfront.net/live/3338960e-86ca-4c50-a567-913c663b26fc/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="CTV" tvg-name="CTV" tvg-logo="https://ctvbolivia.com/wp-content/uploads/2025/09/logo_CTV.png" group-title="BOLIVIA", CTV
 https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 #EXTINF:-1 tvg-id="CEACOM TV" tvg-name="CEACOM TV" tvg-logo="https://ceacomtv.com/images/ceacom/logos/Logo%20CEACOM%2002%20icon.png" group-title="BOLIVIA", CEACOM TV
@@ -34,7 +38,7 @@ https://59d39900ebfb8.streamlock.net/INEDITA/INEDITA/chunklist_w1608275671.m3u8
 #EXTINF:-1 tvg-id="RTP" tvg-name="RTP" tvg-logo="https://rtpbolivia.com.bo/wp-content/uploads/elementor/thumbs/Logo800-q7ydinf8upkpnhz9pdmpudbfde2p76ual1ct7mylyu.png" group-title="BOLIVIA", RTP
 https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PTV" tvg-name="PTV" tvg-logo="https://ptvbolivia.com/images/ID%20HD_1.png" group-title="BOLIVIA", PTV
-https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/chunks.m3u8
 #EXTINF:-1 tvg-id="PALENQUE TV" tvg-name="PALENQUE TV" tvg-logo="" group-title="BOLIVIA", PALENQUE TV
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-id="POB TV" tvg-name="POB TV" tvg-logo="" group-title="BOLIVIA", POB TV
@@ -235,3 +239,4 @@ http://201.230.121.186:8000/play/a0fb/index.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="EXTREMA KIDS" tvg-name="EXTREMA KIDS" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="KIDS", EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
