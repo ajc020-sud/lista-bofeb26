@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RED SIGLO XXI" tvg-name="RED SIGLO XXI" tvg-logo="" group-title="BOLIVIA", RED SIGLO XXI
 https://59d39900ebfb8.streamlock.net/sigloxxi/sigloxxi/chunklist_w1573679843.m3u8
-#EXTINF:-1 tvg-id="AbyaYala" tvg-name="Abya Yala" tvg-logo="" group-title="Bolivia", Abya Yala
-#EXTVLCOPT:http-referrer=https://seo.tv.bo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
-https://seo.tv.bo/hls/AbyaYala.m3u8|Referer=https://seo.tv.bo&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="ABYA YALA" tvg-name="ABYA YALA" tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2024/04/MOSCA-BLANCA-OK-308x189.png" group-title="BOLIVIA", ABYA YALA
+#EXTHTTP:{"User-Agent":"Mozilla/5.0","Referer":"https://seo.tv.bo"}
+https://seo.tv.bo/hls/AbyaYala.m3u8
